@@ -1,1 +1,1 @@
-# su24-dighum100
+# DIGHUM100 Final Project
